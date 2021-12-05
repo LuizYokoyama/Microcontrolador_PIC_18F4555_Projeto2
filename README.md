@@ -9,3 +9,4 @@ Fazer a leitura da temperatura usando o LM35. Se a temperatura for abaixo de
 100ºC "Temperatura Adequada" e para valores acima de 100ºC "Temperatura muito
 alta". Para temperaturas acima de 100ºC o motor de passo deve ser ligado
 
+Para compilar o código, recomenda-se o uso da IDE MPLab-X https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide
